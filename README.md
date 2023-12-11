@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @not-so-crazy
-- 👀 I’m interested in coding as game developer
-- 👨‍💻 I’m currently learning python and c#
-- 📳 I’m looking to collaborate on 
+- 👋 Hi, I’m @Simeon Velev
+- 👀 I’m interested in coding as python developer or python software engineer
+- 👨‍💻 I’m currently learning python, web development and server development
+- 📳 I’m looking to collaborate on python projects
 - 📫 You can reach me on my email mpgaming122@gmail.com
 
 <!---
